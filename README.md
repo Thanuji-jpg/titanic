@@ -1,11 +1,9 @@
 # Titanic
  Titanic dataset and builds a predictive model to estimate passenger survival using XGBoost regression. The analysis includes data preprocessing, feature engineering, model training, and evaluation.
 # Key Features
-# Dataset: Titanic dataset from Kaggle
-
-# Goal: Predict survival (Survived column) using passenger features.
-
-# Model Used: XGBoost Regressor
+ Dataset: Titanic dataset from Kaggle
+ Goal: Predict survival (Survived column) using passenger features.
+ Model Used: XGBoost Regressor
 
 # Steps Covered:
 
